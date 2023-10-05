@@ -19,6 +19,7 @@ def compressString(string):
 s = input("Введите строку для преобразования: ")
 compressedString = compressString(s)
 print(compressedString)
+
 # 2 задание
 
 def decompressString(s):
