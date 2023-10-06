@@ -1,4 +1,4 @@
-# 1 задание
+# 1 задание 123 123 123
 
 def compressString(string):
     compressedString = ""
